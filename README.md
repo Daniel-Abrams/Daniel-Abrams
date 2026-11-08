@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Daniel-Abrams
-- 👀 network security, learning models, mobile app development
+- 👀 network security, internet-censorship, algorithms, applied theory
 - 📫 How to reach me ...email: danlab1104@gmail.com
-- 😄 Pronouns: he/him
   
 
 <!---
